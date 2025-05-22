@@ -4,6 +4,10 @@ A responsive Disney+ Hotstar clone built using HTML, CSS, and JavaScript.
 
 This project replicates key features of the Hotstar streaming platform with a modern UI.
 
+## Live Demo 🌐
+
+https://adarsh-70.github.io/Hotstar-Clone/
+
 ## Features ✨
 
 - Responsive layout (works on mobile, tablet & desktop)
